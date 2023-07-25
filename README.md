@@ -1,3 +1,8 @@
+Este es el proyecto individual del curso REACT de Codo a Codo 4.0
+Mi nombre es Jose Rodriguez
+Comision 23302
+me puedes contactar al siguiente correo: jose.rodriguez.avila@gmail.com
+
 # en el directorio del proyecto es necario ejecutar en la terminal los siguiente comandos
  `npm i` para instalar las dependencias. 
 
