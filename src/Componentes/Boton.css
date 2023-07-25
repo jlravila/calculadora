@@ -1,0 +1,69 @@
+.component-button {
+    display: inline-flex;
+    width: 25%;
+    flex: 1 0 auto;
+}
+
+.btn:hover {
+    cursor: pointer;
+    background: #ccc;
+}
+
+.component-button.wide {
+    width: 50%;
+}
+
+.component-button button {
+    background: #e0e0e0;
+    border: 0;
+    font-size: 2em;
+    margin: 0 1px 0 0;
+    flex: 1 0 auto;
+}
+
+.component-button.red button {
+    background: #ff0000;
+    color: #fff;
+}
+
+.component-button.red button:hover {
+    background: #ff9900;
+}
+
+.component-button.red button:active {
+    background: #ff9900;
+    color:#000000;
+    font-size: 2.5em;
+
+}
+
+.component-button.blue button {
+    background: #011468;
+    color: #fff;
+}
+
+.component-button.blue button:hover {
+    background: #028a9c;
+}
+
+.component-button.blue button:active {
+    background: #028a9c;
+        color:#000000;
+    font-size: 2.5em;
+}
+
+
+.component-button.orange button {
+    background: #ff9900;
+    color: #fff;
+}
+
+.component-button.orange button:hover {
+    background: #db9a39;
+}
+
+.component-button.orange button:active {
+    background: #db9a39;
+    color:#000000;
+    font-size: 2.5em;
+}
